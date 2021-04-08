@@ -1,12 +1,12 @@
 # ProcMonit
 
-A simple process monitor written in C
+A simple Process Monitor written in C
 =====================================
 
 Overview
 --------
 
-A simple process monitor written in C.
+A simple Process Monitor written in C.
 
 1. ProcMonit.c - the Process Monitor source file.
 
